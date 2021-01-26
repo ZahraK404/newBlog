@@ -1,0 +1,11 @@
+.inst {
+  width: 50px;
+  margin-bottom: 5px;
+  text-decoration: none;
+}
+
+.mail {
+  width: 60px;
+  margin-left: 30px;
+  margin-top: 5px;
+}
